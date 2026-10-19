@@ -1,0 +1,5 @@
+clean/
+executed.ipynb
+.ipynb_checkpoints/
+__pycache__/
+*.csv
