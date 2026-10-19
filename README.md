@@ -77,6 +77,12 @@ Random seeds are fixed. Tree and neural-network scores can shift slightly betwee
 
 The full list, with evidence, is in notebook section 8 and in the report.
 
-## Team
 
-<!-- names and student IDs -->
+## Team 36
+
+| Team Member | Student ID |
+|---|---|
+| Hala Khalil | 58-4791 |
+| Roaa Mohamed | 58-1191 |
+| Jana Maher | 58-11371 |
+| Yomna Elgohary | 58-8955 |
